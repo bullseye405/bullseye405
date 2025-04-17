@@ -38,16 +38,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bullseye405&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bullseye405&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bullseye405&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bullseye405&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
+
+<!-- 
+  </p align="center">
+    <img src="https://streak-stats.demolab.com?user=bullseye405&theme=default" alt="GitHub Streak" />
+  </p>
+-->
 
 ---
 

@@ -56,7 +56,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/samir-prajapati-np" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/" target="_blank">Twitter</a> •
+  <a href="https://www.linkedin.com/in/samir-prajapati-b9b589174" target="_blank">LinkedIn</a> •
+  <a href="https://www.upwork.com/freelancers/~01fba7ca6af5995f8d" target="_blank">Upwork</a> •
   <a href="https://prajapati-samir.com.np" target="_blank">Portfolio</a>
 </p>
